@@ -84,14 +84,18 @@ Trong đó:
 #### (C) Thời kỳ đỉnh cao
 
 **Định nghĩa:**
-- Một năm mà tổng (số lượt dịch + số lượt trình bày)  
-  chiếm ≥ 36% toàn bộ sự nghiệp của nhạc sĩ  
+- 1 năm mà tổng số lượt dịch và lượt trình bày
+  của các ca khúc được sáng tác trong năm đó
+  chiếm ≥ 43% tổng số lượt dịch và trình bày
+  của tất cả ca khúc trong toàn bộ sự nghiệp
+  của nhạc sĩ.
+
 
 📌 Truy vấn cần trả lời:
-- Nhóm dữ liệu theo năm sáng tác  
-- Tính tổng số lượt dịch và trình bày theo từng năm  
-- Tính tổng toàn bộ sự nghiệp của nhạc sĩ  
-- So sánh tỷ lệ từng năm với tổng sự nghiệp  
+- Tính tổng số lượt dịch và trình bày của các ca khúc.
+- Nhóm các ca khúc trên trên theo từng năm sáng tác của mỗi nhạc sĩ.  
+- Tính tổng toàn bộ sự nghiệp của nhạc sĩ.
+- So sánh tỷ lệ từng năm với tổng sự nghiệp.
 
 ---
 
