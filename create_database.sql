@@ -1,4 +1,4 @@
-IF DB_ID(N'AmNhac') IS NULL
+IF DB_ID(N'KhoCaKhuc') IS NULL
     CREATE DATABASE KhoCaKhuc;
 GO
 
