@@ -70,7 +70,7 @@ Trong đó:
 
 **Nhạc sĩ đa tài**
 - D ≥ 0.67  
-- Sáng tác ≥ 3 thể loại
+- Sáng tác ≥ 4 thể loại và không thể loại nào vượt quá 33% tổng sáng tác 
 
 📌 Truy vấn cần trả lời:
 - Đếm số ca khúc theo từng thể loại của mỗi nhạc sĩ  
