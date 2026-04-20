@@ -98,7 +98,7 @@ Dưới đây là nội dung từ hình ảnh đã được chuyển sang địn
 
 **Q18** Liệt kê mã tác giả và tên của các nhạc sĩ lừng danh -> Nhóm 5
 
-**19** Liệt kê mã tác giả, tên tác giả và thông tin phân loại: Cần mẫn, Tài năng, Chuyên môn, Đa dạng, Lừng danh (Đúng/Sai) 
+**Q19** Liệt kê mã tác giả, tên tác giả và thông tin phân loại: Cần mẫn, Tài năng, Chuyên môn, Đa dạng, Lừng danh (Đúng/Sai) 
 
 **Q20** Liệt kê tên các ca sĩ có hát ít nhất một bài hát của nhạc sĩ 'Trịnh Công Sơn'.
 
