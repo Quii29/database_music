@@ -64,7 +64,7 @@ Dưới đây là nội dung từ hình ảnh đã được chuyển sang địn
 
 I. GÓC NHÌN TỔNG QUAN VỀ KHO CA KHÚC 
 
-**Q1** Tìm ca khúc lâu đời nhất có trong kho lưu trữ 
+**Q1** Tìm những ca khúc lâu đời nhất có trong kho lưu trữ 
 
 **Q2** Liệt kê mã và tên các ca khúc sáng tác vào trước năm 2000
 
@@ -72,41 +72,41 @@ I. GÓC NHÌN TỔNG QUAN VỀ KHO CA KHÚC
 
 **Q4** Đếm số lượng ca khúc hiện có trong kho lưu trữ
 
-**Q5** Liệt kê mã tác giả, tên nhạc sĩ và số lượng ca khúc đã sáng tác sắp xếp từ cao đến thấp theo số ca khúc
+**Q5** Liệt kê tên bài hát mà không có ca sĩ nào trong kho lưu trữ chưa từng hát
 
 II. TÌM NHỮNG GƯƠNG MẶT CẦN MẪN
 
-**Q6:** Liệt kê mã tác giả và tên của các nhạc sĩ sáng tác ít nhất 8 bài hát sắp xếp theo bảng chữ cái -> Nhớm 2
+**Q6** Liệt kê mã tác giả, tên nhạc sĩ và số lượng ca khúc đã sáng tác sắp xếp từ cao đến thấp theo số ca khúc
+
+**Q7:** Liệt kê mã tác giả và tên của các nhạc sĩ sáng tác ít nhất 8 bài hát sắp xếp theo bảng chữ cái (Nhạc sĩ cần mẫn)
 
 III. TÌM NHỮNG GƯƠNG MẶT TÀI NĂNG 
 
-**Q7** Liệt kê mã tác giả và tên của các nhạc sĩ có ít nhất 2 ca khúc thuộc top 25% ca khúc được trình bày nhiều nhất -> Nhóm 4
+**Q8** Liệt kê mã tác giả và tên của các nhạc sĩ có ít nhất 2 ca khúc thuộc top 30% ca khúc được trình bày nhiều nhất
 
-**Q8** Liệt kê tên bài hát mà không có nhạc sĩ nào trong kho lưu trữ chưa từng hát
+**Q9** Liệt kê mã tác giả, tên của các nhạc sĩ và số năm mà trong các năm đó, nhạc sĩ có tổng số lượt dịch và trình bày các ca khúc của mình chiếm ít nhất 36% toàn bộ sự nghiệp (số thời kỳ đỉnh cao) 
 
-**Q9** Liệt kê mã tác giả, tên của các nhạc sĩ và số năm mà trong các năm đó, nhạc sĩ có tổng số lượt dịch và trình bày các ca khúc của mình chiếm ít nhất 36% toàn bộ sự nghiệp (số thời kỳ đỉnh cao) -> Nhóm 6
-
-**Q10** Liệt kê mã tác giả, tên của các nhạc sĩ có ít nhất 2 ca khúc thuộc top 25% ca khúc được trình bày nhiều nhất và có không dưới một thời kỳ đỉnh cao -> Nhóm 3 
+**Q10** Liệt kê mã tác giả, tên của các nhạc sĩ có ít nhất 2 ca khúc thuộc top 30% ca khúc được trình bày nhiều nhất và có không dưới một thời kỳ đỉnh cao (Nhạc sĩ tài năng)
 
 IV. XEM XÉT ĐỘ ĐA DẠNG THỂ LOẠI TRONG SÁNG TÁC 
 
-**Q11** Với khái niệm độ đa dạng được định nghĩa D = 1 - Σ(pᵢ²) với pᵢ là tỷ lệ ca khúc thuộc thể loại i, liệt kê mã tác giả, tên và độ đa dạng thể loại của các nhạc sĩ -> Nhóm 8 
+**Q11** Với khái niệm độ đa dạng được định nghĩa D = 1 - Σ(pᵢ²) với pᵢ là tỷ lệ ca khúc thuộc thể loại i, liệt kê mã tác giả, tên và độ đa dạng thể loại của các nhạc sĩ
 
-**Q12** Liệt kê mã tác giả, tên của các nhạc sĩ, tên thể loại và tỉ lệ sáng tác của thể loại đó -> Nhóm 8
+**Q12** Liệt kê mã tác giả, tên của các nhạc sĩ, tên thể loại và tỉ lệ sáng tác của thể loại đó
 
-**Q13** Liệt kê mã tác giả, tên của các nhạc sĩ có ít nhất 1 thể loại chiếm không dưới 67% tổng sáng tác -> Nhóm 9
+**Q13** Liệt kê mã tác giả, tên của các nhạc sĩ có ít nhất 1 thể loại chiếm không dưới 67% tổng sáng tác
 
-**Q14** Liệt kê mã tác giả, tên của các nhạc sĩ sáng tác ít nhất 4 thể loại -> Nhóm 9 
+**Q14** Liệt kê mã tác giả, tên của các nhạc sĩ sáng tác ít nhất 4 thể loại
 
-**Q15** Liệt kê mã tác giả, tên của các nhạc sĩ có ít nhất 1 thể loại chiếm không dưới 67% tổng sáng tác và có độ đa dạng thể loại dưới 0.67 -> Nhóm 3
+**Q15** Liệt kê mã tác giả, tên của các nhạc sĩ có ít nhất 1 thể loại chiếm không dưới 67% tổng sáng tác và có độ đa dạng thể loại dưới 0.67 (Nhạc sĩ chuyên môn)
 
-**Q16** Liệt kê mã tác giả, tên của các nhạc sĩ có sáng tác ít nhất 4 thể loại và có điểm da dạng không dưới 0.67 -> Nhóm 3
+**Q16** Liệt kê mã tác giả, tên của các nhạc sĩ có sáng tác ít nhất 4 thể loại và có điểm da dạng không dưới 0.67 (Nhạc sĩ đa dạng)
 
 V. TÌM RA NHỮNG NHỮNG LỜI CA BẤT HỦ
 
-**Q17** Liệt kê mã ca khúc, mã tác giả và tên của các ca khúc để đời -> Nhóm 4
+**Q17** Liệt kê mã ca khúc, mã tác giả và tên của các ca khúc để đời (có ít nhất 3 bản dịch và ít nhất 6 lần được trình bày)
 
-**Q18** Liệt kê mã tác giả và tên của các nhạc sĩ lừng danh -> Nhóm 5
+**Q18** Liệt kê mã tác giả và tên của các **nhạc sĩ lừng danh** (có trên 20% ca khúc là để đời)
 
 VI. YẾU TỐ NÀO ĐỂ THANH ÂM TRƯỜNG TỒN CÙNG NĂM THÁNG?
 
