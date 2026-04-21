@@ -40,7 +40,7 @@ Dữ liệu có thể không cảm nhận được âm nhạc, nhưng có thể 
 #### (A) Nhóm “Cần mẫn” vs “Tài năng”
 
 **Nhạc sĩ cần mẫn**
-- Có ≥ 10 ca khúc sáng tác  
+- Có ≥ 8 ca khúc sáng tác  
 
 **Nhạc sĩ tài năng**
 - Có ≥ 2 ca khúc thuộc **top 25% ca khúc được trình bày nhiều nhất**
@@ -84,8 +84,8 @@ Trong đó:
 #### (C) Thời kỳ đỉnh cao
 
 **Định nghĩa:**
-- Một năm mà tổng (số lượt dịch + số lượt trình bày)  
-  chiếm ≥ 36% toàn bộ sự nghiệp của nhạc sĩ  
+- Một năm mà tổng (số lượt dịch + số lượt trình bày) của các ca khúc được sáng tác trong năm đó  
+  chiếm ≥ 36% tổng số lượt dịch và trình bày của tất cả bài hát trong sự nghiệp. 
 
 📌 Truy vấn cần trả lời:
 - Nhóm dữ liệu theo năm sáng tác  
