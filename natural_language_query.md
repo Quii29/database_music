@@ -66,7 +66,7 @@ Dưới đây là nội dung từ hình ảnh đã được chuyển sang địn
 
 **Q2** Liệt kê mã và tên các ca khúc sáng tác vào trước năm 2000
 
-**Q3** Liệt kê mã và tên các ca khúc có chứa chữ "tình"
+**Q3** Liệt kê mã và tên các ca khúc có chứa chữ "Love"
 
 **Q4** Đếm số lượng ca khúc hiện có trong kho lưu trữ
 
@@ -100,6 +100,6 @@ Dưới đây là nội dung từ hình ảnh đã được chuyển sang địn
 
 **Q19** Liệt kê mã tác giả, tên tác giả và thông tin phân loại: Cần mẫn, Tài năng, Chuyên môn, Đa dạng, Lừng danh (Đúng/Sai) 
 
-**Q20** Liệt kê tên các ca sĩ có hát ít nhất một bài hát của nhạc sĩ 'Trịnh Công Sơn'.
+**Q20** Liệt kê tên các ca sĩ có hát ít nhất một bài hát của nhạc sĩ có nhiều ca khúc để đời nhất.
 
-**Q21** Liệt kê tên các ca sĩ hát toàn bộ ca khúc của nhạc sĩ 'Trịnh Công Sơn'
+**Q21** Liệt kê tên các ca sĩ hát toàn bộ ca khúc của nhạc sĩ có nhiều ca khúc để đời nhất.
